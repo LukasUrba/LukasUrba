@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I currently work in IT. Always open to collaborating on new projects.
+
+Currently I'm learning game dev using Godot.
+
+Proficient in Java, JavaScript, Go, and front-end technologies.
+
 <!--
 **LukasUrba/LukasUrba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
