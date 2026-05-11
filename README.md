@@ -2,7 +2,7 @@
 
 I currently work in IT. Always open to collaborating on new projects.
 
-Currently I'm learning game dev using Godot.
+Currently I'm learning game dev using Godot and making my github look ✨ _pretty_ ✨
 
 Proficient in Java, JavaScript, Go, and front-end technologies.
 
